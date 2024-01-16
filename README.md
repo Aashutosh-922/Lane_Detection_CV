@@ -21,7 +21,7 @@ pip install opencv-python numpy
 1. Clone the repository:
 
 ```bash
-https://github.com/Aashutosh-922/Lane_Detection_CV.git```
+git clone https://github.com/Aashutosh-922/Lane_Detection_CV.git```
 
 2. Navigate to the project directory:
 
